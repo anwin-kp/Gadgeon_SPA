@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 100,
+      "name": "Anwin",
+      "DOJ": "08-08-2022",
+      "salary": 25000,
+      "email": "anwinkp@gmail.com",
+      "password": "123456"
+    },
+    {
+      "FirstName": "Anwin",
+      "LastName": "KP",
+      "Age": 24,
+      "email": "anwinkp007@gmail.com",
+      "password": "123456",
+      "id": 106
+    }
+  ]
+}

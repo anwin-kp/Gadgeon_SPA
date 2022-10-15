@@ -1,0 +1,11 @@
+li{
+  display: inline;
+  padding-left: 20px;
+}
+nav{
+  background-color: azure;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
